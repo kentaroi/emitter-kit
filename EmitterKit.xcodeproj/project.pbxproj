@@ -172,9 +172,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 1102852519C9BCEB0069F253 /* Build configuration list for PBXNativeTarget "EmitterKit" */;
 			buildPhases = (
+				1102850A19C9BCEB0069F253 /* Headers */,
 				1102850819C9BCEB0069F253 /* Sources */,
 				1102850919C9BCEB0069F253 /* Frameworks */,
-				1102850A19C9BCEB0069F253 /* Headers */,
 				1102850B19C9BCEB0069F253 /* Resources */,
 			);
 			buildRules = (
